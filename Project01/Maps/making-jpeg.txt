@@ -1,0 +1,4 @@
+Open DXF in illustrator.
+Save as EPS.
+Open EPS in photoshop, .. width at 2500 pixels/72 dpi/Grayscale
+Save for Web as JPEG/High (Qual=60)

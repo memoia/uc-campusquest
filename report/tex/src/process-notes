@@ -1,0 +1,4 @@
+Used lgrind to convert java source to 'pretty tex'.
+Help: http://web.mit.edu/answers/latex/latex_sourcecode.html
+
+Could also just use verbatim package.
